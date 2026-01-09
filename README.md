@@ -28,24 +28,19 @@ This project demonstrates basic GUI development, event handling, and arithmetic 
 
 ---
 
-## 📸 Screenshot (optional)
+# What I Learned
+* Building graphical user interfaces with Tkinter
+* Handling user inputs and events
+* Structuring a small python project
+  
+  ---
+
+  
+## 📸 Screenshot 
 
 
 
 ---
 
-## 🚀 Installation & Setup
 
-Follow these steps to run the project locally:
-
-### 1️⃣ Clone the repository
-
-```bash
-git clone https://github.com/yourusername/your-repo-name.git
-```
-
-### 2️⃣ Navigate to the project folder
-
-```bash
-cd your-repo-name
 ```
