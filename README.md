@@ -30,7 +30,7 @@ This project demonstrates basic GUI development, event handling, and arithmetic 
 
 ## 📸 Screenshot (optional)
 
-*Add a screenshot of your calculator UI here if you have one.*
+
 
 ---
 
